@@ -79,10 +79,10 @@
 
 ## 🎯 What I'm Focused On
 
-- ⚙️ Building and maintaining scalable full-stack production systems
-- ☁️ Deployment, monitoring, and Linux server administration
-- 🔗 REST API design and system integration
-- 🔁 Agile/Scrum workflows and continuous system improvement
+- ☁️ Cloud infrastructure and deployment architecture
+- 🏗️ System design for scalability, reliability, and performance
+- 🔧 Server administration, monitoring, and production support
+- 🔗 API and system integration across distributed services
 
 ---
 
