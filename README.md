@@ -1,85 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:00A86B&height=200&section=header&text=Christion%20Mushariwa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20System%20Builder&descAlignY=58&descSize=16" />
+# Hi, I'm Christion Mushariwa 👋
 
-<a href="mailto:christionmushariwa@protonmail.com">
-  <img src="https://img.shields.io/badge/Email-christionmushariwa%40protonmail.com-0b0b0b?style=for-the-badge&logo=protonmail&logoColor=00A86B&labelColor=0b0b0b" />
-</a>
-<a href="https://github.com/ChristionMush">
-  <img src="https://img.shields.io/badge/GitHub-ChristionMush-0b0b0b?style=for-the-badge&logo=github&logoColor=00A86B&labelColor=0b0b0b" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=00A86B&labelColor=0b0b0b" />
-</a>
+**@ChristionMush · Software Engineer · Zimbabwe**
+
+<p>
+<a href="https://github.com/ChristionMush"><img src="https://img.shields.io/badge/PORTFOLIO-GITHUB.COM%2FCHRISTIONMUSH-0b0b0b?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-CHRISTION%20MUSHARIWA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+<p>
+<a href="mailto:christionmushariwa@protonmail.com"><img src="https://img.shields.io/badge/EMAIL-CHRISTIONMUSHARIWA%40PROTONMAIL.COM-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+</p>
 
 </div>
 
-<br/>
+---
 
-## 🟢 About Me
+## 🚀 About Me
 
-```yaml
-role: Software Engineer & Technical Support @ Torryblue Investments
-background: BSc in Information Technology (Eduvos, South Africa)
-focus: Scalable full-stack systems, backend engineering, and infrastructure
-mission: Building real-world tech solutions for African industries — the Area 41 vision
-```
+> Analytical and solutions-driven Software Engineer with a BSc in Information Technology and hands-on experience building, deploying, and supporting scalable production systems. Currently building full-stack applications and maintaining live infrastructure at Torryblue Investments in Harare.
 
-- 💼 Currently a **Software Engineer & Technical Support** at **Torryblue Investments**, Harare
-- 🛠️ Building and maintaining **scalable full-stack applications** with Node.js, Python, Angular & PostgreSQL
-- 🔗 Designing and integrating **RESTful APIs** across frontend and backend systems
-- 🖥️ Hands-on with **production deployment, monitoring, and Linux server administration** (Ubuntu, Nginx, PM2)
-- ⚡ Applying performance techniques like **Redis caching** and **database indexing**
-- 🔁 Working within **Agile/Scrum** workflows — sprint planning, stand-ups, and code reviews
-- 🌍 Passionate about reliable systems, clean architecture, and the **Area 41** vision for African industries
+---
 
-<br/>
+## 🛠️ Tech Stack
 
-## 🟢 Tech Stack
-
-**Languages**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
+### Languages
+<p>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-**Frameworks, Databases & Tools**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,linux,nginx,git,github,vscode,postman&theme=dark" />
+### Frameworks & Platforms
+<p>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-00A86B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MVC%20ARCHITECTURE-0b0b0b?style=for-the-badge" />
 </p>
 
-**Core Concepts**
+### Databases
+<p>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-`REST APIs` · `OOP` · `MVC Architecture` · `SDLC` · `Agile/Scrum` · `CI/CD` · `System Integration` · `Debugging & Testing` · `TCP/IP · DNS · DHCP`
+### Infrastructure & DevOps
+<p>
+<img src="https://img.shields.io/badge/UBUNTU%20SERVER-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-<br/>
+### Tools
+<p>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-## 🟢 Experience
+---
 
-**Software Engineer & Technical Support** — *Torryblue Investments*, Harare
-`March 2025 – Present`
-- Designed, developed, and maintained scalable full-stack apps using Node.js, Python, Angular, and PostgreSQL
-- Built and integrated RESTful APIs connecting frontend and backend services
-- Supported live production environments: deployment, monitoring, and troubleshooting
-- Configured and maintained Ubuntu Server, Nginx, and PM2 hosting environments
-- Implemented Redis caching and database indexing for performance optimization
-
-**Software & IT Support Assistant (Part-Time)** — *Bonus Works*, Remote
-- Assisted in debugging and maintaining web-based applications
-- Supported backend operations and database administration
-- Contributed to technical documentation and QA testing before deployment
-
-<br/>
-
-## 🟢 Education
-
-**BSc in Information Technology** — Eduvos, South Africa (2022 – 2024)
-`74% Overall Average · Multiple Distinctions`
-
-<br/>
-
-## 🟢 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -88,23 +73,37 @@ mission: Building real-world tech solutions for African industries — the Area 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristionMush&theme=dark&hide_border=false&border=00A86B&background=0b0b0b&ring=00A86B&fire=00A86B&currStreakLabel=00A86B" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristionMush&theme=react-dark&bg_color=0b0b0b&color=00A86B&line=00A86B&point=ffffff&hide_border=true" />
-
 </div>
 
-<br/>
+---
 
-## 🟢 GitHub Trophies
+## 🎯 What I'm Focused On
+
+- ⚙️ Building and maintaining scalable full-stack production systems
+- ☁️ Deployment, monitoring, and Linux server administration
+- 🔗 REST API design and system integration
+- 🌍 The **Area 41** vision — real-world tech solutions for African industries
+
+---
+
+## 💼 Experience
+
+**Software Engineer & Technical Support** · Torryblue Investments, Harare · *March 2025 – Present*
+- Designed, developed, and maintained scalable full-stack apps using Node.js, Python, Angular, and PostgreSQL
+- Built and integrated RESTful APIs, supported live production environments, and optimized performance with Redis caching and database indexing
+
+**Software & IT Support Assistant (Part-Time)** · Bonus Works, Remote
+- Debugging, backend support, database administration, and QA testing
+
+---
+
+## 🎓 Education
+
+**BSc in Information Technology** · Eduvos, South Africa (2022 – 2024) · 74% Average, Multiple Distinctions
+
+---
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChristionMush&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,100:0b0b0b&height=100&section=footer" />
 
 **⚡ Building scalable systems for the future ⚡**
 
