@@ -6,7 +6,6 @@
 
 <p>
 <a href="https://github.com/ChristionMush"><img src="https://img.shields.io/badge/PORTFOLIO-GITHUB.COM%2FCHRISTIONMUSH-0b0b0b?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-CHRISTION%20MUSHARIWA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <p>
 <a href="mailto:christionmushariwa@protonmail.com"><img src="https://img.shields.io/badge/EMAIL-CHRISTIONMUSHARIWA%40PROTONMAIL.COM-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
