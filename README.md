@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-> Analytical and solutions-driven Software Engineer with a BSc in Information Technology and hands-on experience building, deploying, and supporting scalable production systems. Currently building full-stack applications and maintaining live infrastructure at Torryblue Investments in Harare.
+> Analytical and solutions-driven Software Engineer with practical experience developing, deploying, and supporting scalable software systems in production environments. Skilled in backend development, REST API integration, database management, troubleshooting, and Linux server administration.
 
 ---
 
@@ -82,24 +82,7 @@
 - ⚙️ Building and maintaining scalable full-stack production systems
 - ☁️ Deployment, monitoring, and Linux server administration
 - 🔗 REST API design and system integration
-- 🌍 The **Area 41** vision — real-world tech solutions for African industries
-
----
-
-## 💼 Experience
-
-**Software Engineer & Technical Support** · Torryblue Investments, Harare · *March 2025 – Present*
-- Designed, developed, and maintained scalable full-stack apps using Node.js, Python, Angular, and PostgreSQL
-- Built and integrated RESTful APIs, supported live production environments, and optimized performance with Redis caching and database indexing
-
-**Software & IT Support Assistant (Part-Time)** · Bonus Works, Remote
-- Debugging, backend support, database administration, and QA testing
-
----
-
-## 🎓 Education
-
-**BSc in Information Technology** · Eduvos, South Africa (2022 – 2024) · 74% Average, Multiple Distinctions
+- 🔁 Agile/Scrum workflows and continuous system improvement
 
 ---
 
