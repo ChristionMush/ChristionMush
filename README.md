@@ -1,76 +1,94 @@
-<div align="center" style="background-color:#0b0b0b; padding:20px; border-radius:12px;">
+<div align="center">
 
-<h1 style="color:#00A86B;">Hi 👋, I'm Christion Mushariwa</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:00A86B&height=200&section=header&text=Christion%20Mushariwa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20System%20Builder&descAlignY=58&descSize=16" />
 
-<h3 style="color:#00A86B;">
-Software Engineer | Full-Stack Developer | System Builder
-</h3>
+<a href="mailto:christionmushariwa@protonmail.com">
+  <img src="https://img.shields.io/badge/Email-christionmushariwa%40protonmail.com-0b0b0b?style=for-the-badge&logo=protonmail&logoColor=00A86B&labelColor=0b0b0b" />
+</a>
+<a href="https://github.com/christionmush">
+  <img src="https://img.shields.io/badge/GitHub-christionmush-0b0b0b?style=for-the-badge&logo=github&logoColor=00A86B&labelColor=0b0b0b" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=00A86B&labelColor=0b0b0b" />
+</a>
 
 </div>
 
----
+<br/>
 
 ## 🟢 About Me
 
-- Full-stack engineer focused on **scalable systems & automation**
-- Passionate about **DevOps, cloud infrastructure, and system design**
-- Building real-world solutions for African industries (Area 41 vision)
-- Strong interest in **AI-powered systems & distributed architectures**
+```yaml
+role: Full-Stack Engineer
+focus: Scalable systems, automation, and distributed architecture
+mission: Building real-world tech solutions for African industries — the Area 41 vision
+currently: Exploring AI-powered systems, DevOps pipelines, and cloud-native infrastructure
+```
 
----
+- 🔭 Full-stack engineer focused on **scalable systems & automation**
+- ☁️ Passionate about **DevOps, cloud infrastructure, and system design**
+- 🌍 Building real-world solutions for African industries — the **Area 41** vision
+- 🤖 Strong interest in **AI-powered systems & distributed architectures**
+- 📈 Always shipping, always learning
 
-## 🟢 Contact
+<br/>
 
-- 📫 Email: **christionmushariwa@protonmail.com**
+## 🟢 Tech Stack
 
----
-
-## 🟢 Languages
-
-<p align="left">
-
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-<a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></a>
-
-</p>
-
----
-
-## 🟢 Tools & Technologies
+**Languages**
 
 <p align="left">
-
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,kotlin&theme=dark" />
 </p>
 
----
+**Frameworks & Tools**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring,docker,kubernetes,git,linux,postgres,mongodb&theme=dark" />
+</p>
+
+<br/>
 
 ## 🟢 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christionmush&show_icons=true&theme=dark&title_color=00A86B&icon_color=00A86B" />
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=christionmush&show_icons=true&theme=dark&title_color=00A86B&icon_color=00A86B&text_color=c9d1d9&bg_color=0b0b0b&border_color=00A86B&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christionmush&layout=compact&theme=dark&title_color=00A86B&text_color=c9d1d9&bg_color=0b0b0b&border_color=00A86B&hide_border=false" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=christionmush&theme=dark&hide_border=false&border=00A86B&background=0b0b0b&ring=00A86B&fire=00A86B&currStreakLabel=00A86B" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=christionmush&theme=react-dark&bg_color=0b0b0b&color=00A86B&line=00A86B&point=ffffff&hide_border=true" />
+
+</div>
+
+<br/>
 
 ## 🟢 Currently Exploring
 
-- System Design & Distributed Systems  
-- DevOps (Docker • Kubernetes • CI/CD)  
-- AI Automation & Intelligent Systems  
+| Focus Area | Details |
+|---|---|
+| 🏗️ System Design | Distributed systems, scalability patterns |
+| ⚙️ DevOps | Docker · Kubernetes · CI/CD pipelines |
+| 🧠 AI Automation | Intelligent systems, LLM-powered tooling |
+| ☁️ Cloud Infra | Multi-cloud architecture & deployment |
 
----
+<br/>
 
-<div align="center" style="color:#00A86B; background-color:#0b0b0b; padding:10px;">
-⚡ Building scalable systems for the future ⚡
+## 🟢 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=christionmush&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,100:0b0b0b&height=100&section=footer" />
+
+**⚡ Building scalable systems for the future ⚡**
+
+<img src="https://komarev.com/ghpvc/?username=christionmush&color=00A86B&style=flat-square&label=Profile+Views" />
+
 </div>
