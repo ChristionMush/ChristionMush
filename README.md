@@ -20,6 +20,7 @@
 > Full-stack software engineer who builds, ships and runs business systems end to end — from React and TypeScript interfaces, through REST APIs and SQL databases, to the Linux and Nginx servers they run on in production.
 
 - 🏢 Built and ran in-house production systems at **Torryblue Investments** — farmer debt recovery and carton inventory — replacing manual tracking for finance and agronomy teams
+- ⛽ Co-built **PumpWise**, a multi-tenant SaaS for fuel stations — Django, React, PostgreSQL RLS, Redis, Terraform on AWS
 - 🏗️ Creator of **BOQ Studio**, a multi-tenant estimating platform for construction companies
 - 🎓 **BSc IT (Software Engineering)**, Eduvos — 12 distinctions
 - ☁️ Studying for **AWS Certified Solutions Architect – Associate**
@@ -54,6 +55,7 @@
 
 ### Back-End & APIs
 <p>
+<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-00A86B?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MVC%20ARCHITECTURE-0b0b0b?style=for-the-badge" />
@@ -65,11 +67,14 @@
 <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### Cloud, Infrastructure & DevOps
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/UBUNTU%20SERVER-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -91,6 +96,7 @@
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[BOQ Studio](https://github.com/ChristionMush/BOQ)** | Multi-tenant Bill of Quantities platform: branded company workspaces, logo-driven colour theming, sector templates, and a rate library with per-project overrides | React 19 · TypeScript · TanStack · Tailwind · shadcn/ui · Zod |
+| **[PumpWise](https://github.com/ChristionMush/PumpWise)** | Multi-tenant SaaS for fuel stations: shift and pump management with offline sync, tank-loss and cash reconciliation, owner dashboards, sales forecasting and alerts, subscription billing with webhooks. Secured with PostgreSQL Row-Level Security, role-based access and audit logs | Django · React · TypeScript · PostgreSQL · Redis · Docker · Terraform · AWS |
 | **[Tobacco Recovery](https://github.com/ChristionMush/tobacco-recovery)** | Production system tracking contracted farmers' debt and recoveries for Torryblue | Python · SQL · migrations |
 | **[Cartons Inventory](https://github.com/torryblue/cartons)** | Stock control for packaging cartons, used in production at Torryblue | Python |
 | **[StudentHubApp](https://github.com/ChristionMush/StudentHubApp)** | Study-table monitoring app | Java |
