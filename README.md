@@ -124,19 +124,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChristionMush&show_icons=true&theme=dark&title_color=00A86B&icon_color=00A86B&text_color=c9d1d9&bg_color=0b0b0b&border_color=00A86B&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristionMush&layout=compact&theme=dark&title_color=00A86B&text_color=c9d1d9&bg_color=0b0b0b&border_color=00A86B&hide_border=false" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristionMush&theme=dark&hide_border=false&border=00A86B&background=0b0b0b&ring=00A86B&fire=00A86B&currStreakLabel=00A86B" />
-
-</div>
-
----
-
 ## 🎯 What I'm Focused On
 
 - ☁️ Cloud architecture on AWS — designing for scalability, reliability and cost
